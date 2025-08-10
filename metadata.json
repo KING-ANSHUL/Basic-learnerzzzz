@@ -1,0 +1,7 @@
+{
+  "name": "Joyful Reading Journey",
+  "description": "A gentle and encouraging app that makes learning to read a joyful process for young children, from letter sounds to their first stories.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
